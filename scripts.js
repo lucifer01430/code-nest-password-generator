@@ -39,6 +39,18 @@
       passwordEl.value = password;
     }
 
+setTimeout(() => {
+  console.log(
+    "%c✨ Designed and Developed by Harsh Pandey",
+    "color: #007bff; font-weight: bold; font-size: 16px;"
+  );
+  console.log(
+    "%c🔗 https://lucifer01430.github.io/Portfolio/",
+    "color: #28a745; font-size: 14px;"
+  );
+}, 2000);
+
+
     function copyPassword() {
       passwordEl.select();
       document.execCommand('copy');
