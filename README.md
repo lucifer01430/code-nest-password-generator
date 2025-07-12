@@ -36,12 +36,15 @@ A modern, responsive web app to generate strong, secure passwords instantly. Bui
 
 ## 📁 Project Structure
 
+```
+
 📁 password-generator/
 ├── index.html        # Main web page
 ├── style.css         # Custom styles
 ├── scripts.js        # Password generation logic
 ├── logo.png          # App logo
 
+```
 ---
 
 ## 🚀 Installation & Usage
