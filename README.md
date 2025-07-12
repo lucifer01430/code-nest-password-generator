@@ -49,7 +49,7 @@ A modern, responsive web app to generate strong, secure passwords instantly. Bui
 ### 1. Clone and run locally
 
 ```bash
-git clone https://github.com/your-username/code-nest-password-generator.git
+git clone https://github.com/lucifer01430/code-nest-password-generator.git
 cd password-generator
 start index.html
 ```
