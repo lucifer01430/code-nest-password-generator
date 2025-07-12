@@ -43,6 +43,9 @@ A modern, responsive web app to generate strong, secure passwords instantly. Bui
 ├── style.css         # Custom styles
 ├── scripts.js        # Password generation logic
 ├── logo.png          # App logo
+├── Other Favicons Files
+.
+.
 
 ```
 ---
