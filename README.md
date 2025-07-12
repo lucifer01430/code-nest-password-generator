@@ -19,7 +19,8 @@ A modern, responsive web app to generate strong, secure passwords instantly. Bui
 
 ## 📸 Live Demo
 
-🚀 [Try it live!]((https://lucifer01430.github.io/code-nest-password-generator/])
+🚀 [Try it live!](https://lucifer01430.github.io/code-nest-password-generator/)
+
 
 ---
 
