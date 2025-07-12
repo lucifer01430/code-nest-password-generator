@@ -53,6 +53,7 @@ git clone https://github.com/your-username/code-nest-password-generator.git
 cd password-generator
 start index.html
 ```
+
 Or just double-click the `index.html` file to open in your browser.
 
 ### 2. Deploy using GitHub Pages
